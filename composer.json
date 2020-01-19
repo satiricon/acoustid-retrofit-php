@@ -1,0 +1,41 @@
+{
+  "name": "satiricon/retro-acoustid",
+  "description": "Acoustic ID API implementation with retrofit-php",
+  "type": "library",
+  "keywords": [
+    "acoustid",
+    "library",
+    "php",
+    "api"
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": "GNU AGPL",
+  "authors": [
+    {
+      "name": "Ruben David Gomez",
+      "email": "david.satiricon@gmail.com"
+    }
+  ],
+  "require": {
+    "tebru/retrofit-php": "~3.0",
+    "tebru/retrofit-php-http-guzzle6" : "^0.1",
+    "tebru/retrofit-php-converter-gson": "^0.3"
+  },
+  "require-dev": {
+    "symfony/var-dumper": "*",
+    "vlucas/phpdotenv": "^3.4"
+  },
+  "autoload": {
+    "classmap": [
+    ],
+    "psr-4": {
+      "AcoustId\\": "src/"
+    }
+  },
+  "config": {
+    "preferred-install": "dist",
+    "component-dir": "public/packages",
+    "vendor-dir": "vendor"
+  }
+}
