@@ -20,18 +20,27 @@
   "require": {
     "tebru/retrofit-php": "~3.0",
     "tebru/retrofit-php-http-guzzle6" : "^0.1",
-    "tebru/retrofit-php-converter-gson": "^0.3",
-    "symfony/dependency-injection": "^5.0"
+    "tebru/retrofit-php-converter-gson": "^0.3"
   },
   "require-dev": {
+    "symfony/dependency-injection": "^5.0",
     "symfony/var-dumper": "*",
-    "vlucas/phpdotenv": "^3.4"
+    "vlucas/phpdotenv": "^3.4",
+    "phpunit/phpunit": "^7.5"
   },
   "autoload": {
     "classmap": [
     ],
     "psr-4": {
       "AcoustId\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "classmap": [
+      "test/TestCase.php"
+    ],
+    "psr-4": {
+      "Tests\\": "test/"
     }
   },
   "config": {
