@@ -29,18 +29,13 @@
     "phpunit/phpunit": "^7.5"
   },
   "autoload": {
-    "classmap": [
-    ],
     "psr-4": {
-      "AcoustId\\": "src/"
+      "Satiricon\\AcoustId\\": "src/"
     }
   },
   "autoload-dev": {
-    "classmap": [
-      "test/TestCase.php"
-    ],
     "psr-4": {
-      "Tests\\": "test/"
+      "Satiricon\\AcoustId\\Tests\\": "tests/"
     }
   },
   "config": {
