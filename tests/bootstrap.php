@@ -12,6 +12,7 @@ use Tebru\Gson\GsonBuilder;
 use Tebru\Gson\Gson;
 use GuzzleHttp\Client;
 use Doctrine\Common\Annotations\AnnotationRegistry;
+use Satiricon\AcoustId\AcoustIdConverter;
 
 AnnotationRegistry::registerLoader('class_exists');
 
@@ -44,12 +45,3 @@ $container->register(Retrofit::class)
 	->setPublic(true);
 
 $container->compile();
-
-
-/*$retrofit = Retrofit::builder()
-    ->setBaseUrl('https://api.github.com')
-    ->setHttpClient(new Guzzle6HttpClient(new Client())) // requires a separate library
-    ->addConverterFactory(new GsonConverterFactory(Gson::builder()->build())) // requies a separate library
-    ->build();
-
-$gitHubService = $retrofit->create(GitHubService::class);*/
