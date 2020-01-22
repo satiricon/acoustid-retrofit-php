@@ -11,8 +11,8 @@ interface AcoustIdService {
 
 	/**
 	 * @GET("/v2/lookup")
-	 * @QueryMap("queryMap")
-	 * @ResponseBody("Satiricon\AcoustId\Results")
+	 * @QueryMap("queryMap", encoded=true)
+	 * @ResponseBody("Satiricon\AcoustId\Model\Results")
 	 */
 	public function lookup(\Traversable $queryMap) : Call;
 
