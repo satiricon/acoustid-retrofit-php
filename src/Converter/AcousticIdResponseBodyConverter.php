@@ -20,7 +20,7 @@ class AcousticIdResponseBodyConverter implements ResponseBodyConverter{
 
 	protected $type;
 
-	public function __construct( LazyLoadingGhostFactory $proxyFactory , AcoustIdService $api = null) {
+	public function __construct( LazyLoadingGhostFactory $proxyFactory = null , AcoustIdService $api = null) {
 		$this->proxyFactory = $proxyFactory;
 		$this->api = $api;
 	}

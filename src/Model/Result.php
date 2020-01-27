@@ -4,7 +4,7 @@
 namespace Satiricon\AcoustId\Model;
 
 
-class Result extends AbstractResult {
+class Result {
 
 	protected $id;
 
