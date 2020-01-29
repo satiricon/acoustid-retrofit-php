@@ -79,6 +79,8 @@ class AcoustIdServiceTest extends TestCase {
 		$result = $results->offsetGet(0);
 		$this->assertInstanceOf(Result::class, $result);
 
+		dump($result->getReleasegroups());
+
 		return $result;
 	}
 
