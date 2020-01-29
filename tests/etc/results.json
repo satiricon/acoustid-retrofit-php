@@ -1,0 +1,1528 @@
+{
+  "results": [
+    {
+      "id": "76031924-888b-430c-851c-2bc1d8ffa974",
+      "recordings": [
+        {
+          "artists": [
+            {
+              "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+              "name": "\u00c9dith Piaf"
+            }
+          ],
+          "duration": 180,
+          "id": "6171fb0a-f4af-4956-8964-0b55c4cf9e8c",
+          "releasegroups": [
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "7dcf4d5b-571c-3c9c-905d-4b597a5be0a1",
+              "releases": [
+                {
+                  "country": "FR",
+                  "date": {
+                    "year": 1993
+                  },
+                  "id": "a230a69c-ccc9-42ee-87fa-c49fec2d9d94",
+                  "medium_count": 10,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 7,
+                      "title": "Milord",
+                      "track_count": 23,
+                      "tracks": [
+                        {
+                          "id": "4ad924c7-b91d-32f3-be97-6bd4699e4eae",
+                          "position": 9
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "FR",
+                      "date": {
+                        "year": 1993
+                      }
+                    }
+                  ],
+                  "track_count": 211
+                },
+                {
+                  "country": "FR",
+                  "date": {
+                    "year": 1993
+                  },
+                  "id": "d3c742ef-5358-4480-ad11-6ec5fbe73d0c",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 1,
+                      "track_count": 23,
+                      "tracks": [
+                        {
+                          "id": "f56c5ca6-5c52-3158-b535-3c4235145058",
+                          "position": 9
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "FR",
+                      "date": {
+                        "year": 1993
+                      }
+                    }
+                  ],
+                  "title": "30e anniversaire: L\u2019Int\u00e9grale 1946-1963 (disc 7: Milord)",
+                  "track_count": 23
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "30e anniversaire: L\u2019Int\u00e9grale 1946\u20131963",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "76f2d2bf-2abf-45b7-b9a7-b38e3a00069c",
+              "releases": [
+                {
+                  "country": "DE",
+                  "id": "e2c3638b-4ad7-4a43-bd01-0ecb1e131336",
+                  "medium_count": 2,
+                  "mediums": [
+                    {
+                      "format": "12\" Vinyl",
+                      "position": 1,
+                      "track_count": 12,
+                      "tracks": [
+                        {
+                          "id": "a436b139-8d7f-43fa-a60a-1c4c9f8d78a8",
+                          "position": 10
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "DE"
+                    }
+                  ],
+                  "track_count": 24
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Magnifique \u00c9dith Piaf",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "ea02f126-502b-4b0f-8743-d55394596795",
+              "releases": [
+                {
+                  "country": "GB",
+                  "date": {
+                    "year": 2011
+                  },
+                  "id": "611dec54-ee7a-4cdd-a35e-f920d67a488f",
+                  "medium_count": 2,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 2,
+                      "track_count": 23,
+                      "tracks": [
+                        {
+                          "id": "07aa5752-d9ba-4b46-b898-4be5fb1002e6",
+                          "position": 16
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "GB",
+                      "date": {
+                        "year": 2011
+                      }
+                    }
+                  ],
+                  "track_count": 45
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Je ne regrette rien",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "e94b2dbd-0ffa-35f2-a08e-b9c5a11cd654",
+              "releases": [
+                {
+                  "country": "FR",
+                  "date": {
+                    "month": 9,
+                    "year": 1993
+                  },
+                  "id": "3b81c560-0f6c-458a-bb7f-3916e00a763b",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 1,
+                      "track_count": 23,
+                      "tracks": [
+                        {
+                          "id": "ed9ebabc-a0ad-309a-9caf-e5377f220adf",
+                          "position": 9
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "FR",
+                      "date": {
+                        "month": 9,
+                        "year": 1993
+                      }
+                    }
+                  ],
+                  "track_count": 23
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Milord",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "d69b67c2-cbea-4ac9-9bf2-1b95143811e6",
+              "releases": [
+                {
+                  "date": {
+                    "year": 1991
+                  },
+                  "id": "b4441a54-83a8-453e-a5ad-774ccbbb15b9",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 1,
+                      "track_count": 16,
+                      "tracks": [
+                        {
+                          "id": "aa48707f-1cdd-4326-9556-d1f17beb8ac7",
+                          "position": 14
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "date": {
+                        "year": 1991
+                      }
+                    }
+                  ],
+                  "track_count": 16
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "45800a21-1ba5-4da9-a67a-9db29e66a25f",
+              "releases": [
+                {
+                  "country": "US",
+                  "date": {
+                    "year": 2009
+                  },
+                  "id": "3070ba8c-e7b1-41a2-8c4c-33c2663ba977",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 1,
+                      "track_count": 13,
+                      "tracks": [
+                        {
+                          "artists": [
+                            {
+                              "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                              "name": "\u00c9dith Piaf"
+                            }
+                          ],
+                          "id": "1a2f8adf-8db0-4713-b499-8b91e0ce2c7f",
+                          "position": 9
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "US",
+                      "date": {
+                        "year": 2009
+                      }
+                    }
+                  ],
+                  "track_count": 13
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Paris magnifique",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "3ea92b4e-f826-42e3-97b4-3495778a56b7",
+              "releases": [
+                {
+                  "country": "US",
+                  "date": {
+                    "year": 1995
+                  },
+                  "id": "b92762d2-61c4-440c-a6c9-dbfa47b47f68",
+                  "medium_count": 2,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 1,
+                      "track_count": 20,
+                      "tracks": [
+                        {
+                          "id": "0eee1193-e37f-464c-adde-4e5f3741a612",
+                          "position": 2
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "US",
+                      "date": {
+                        "year": 1995
+                      }
+                    }
+                  ],
+                  "track_count": 40
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "40 Legendary Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "42ab4937-268c-416b-b374-e7db6a4b544d",
+              "releases": [
+                {
+                  "country": "FR",
+                  "date": {
+                    "day": 17,
+                    "month": 8,
+                    "year": 2007
+                  },
+                  "id": "26c51ec3-2521-4810-8c2e-2eafcb17baa6",
+                  "medium_count": 3,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 2,
+                      "track_count": 15,
+                      "tracks": [
+                        {
+                          "id": "2744141e-a147-3112-b455-9fa42f6ad4c0",
+                          "position": 9
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "FR",
+                      "date": {
+                        "day": 17,
+                        "month": 8,
+                        "year": 2007
+                      }
+                    }
+                  ],
+                  "track_count": 45
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Platinum Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "b512db93-b4d9-3cd9-b623-974c5e950490",
+              "releases": [
+                {
+                  "date": {
+                    "year": 1991
+                  },
+                  "id": "06162c83-606e-44f7-b732-babf808a0946",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "position": 1,
+                      "track_count": 23,
+                      "tracks": [
+                        {
+                          "id": "96f7bb50-0488-34b2-8715-077b8f068e38",
+                          "position": 14
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "date": {
+                        "year": 1991
+                      }
+                    }
+                  ],
+                  "track_count": 23
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "0701e48a-9576-30c7-b70b-f22234677a59",
+              "releases": [
+                {
+                  "id": "fed2b421-d12d-4f03-b320-1d027d90e925",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "position": 1,
+                      "track_count": 12,
+                      "tracks": [
+                        {
+                          "id": "13fa3039-6e5e-3a2a-ace9-640667a944ae",
+                          "position": 5
+                        }
+                      ]
+                    }
+                  ],
+                  "track_count": 12
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of \u00c9dith Piaf: C\u2019est l\u2019amour",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "e356bf9e-1409-381d-a48e-e4767e5373a1",
+              "releases": [
+                {
+                  "id": "3a805d9c-e998-46e4-9a27-d5a0b643256e",
+                  "medium_count": 2,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 1,
+                      "track_count": 15,
+                      "tracks": [
+                        {
+                          "id": "e0a48fdd-9301-3af9-87e8-6041f256c33f",
+                          "position": 9
+                        }
+                      ]
+                    }
+                  ],
+                  "track_count": 30
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Edith Piaf",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "83132fea-4d38-4150-902d-9f95a28a9794",
+              "releases": [
+                {
+                  "country": "FR",
+                  "date": {
+                    "day": 25,
+                    "month": 5,
+                    "year": 2015
+                  },
+                  "id": "91d123e2-b412-47b8-a816-72c5ed2905df",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "Digital Media",
+                      "position": 1,
+                      "track_count": 150,
+                      "tracks": [
+                        {
+                          "id": "a5a09961-c4ed-4ba1-bf74-74a2adb2051c",
+                          "position": 105
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "FR",
+                      "date": {
+                        "day": 25,
+                        "month": 5,
+                        "year": 2015
+                      }
+                    }
+                  ],
+                  "track_count": 150
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "\u00c9dith Piaf: Complete Recordings",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "65f17a89-b4df-3e90-9951-9188e18b308c",
+              "releases": [
+                {
+                  "country": "US",
+                  "date": {
+                    "month": 6,
+                    "year": 1991
+                  },
+                  "id": "568be438-b7be-45ea-8fc0-58294d329d5e",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 1,
+                      "track_count": 15,
+                      "tracks": [
+                        {
+                          "id": "fdd9ee98-3510-3fcf-a16d-84a4d097579b",
+                          "position": 14,
+                          "title": "C\u2019est l\u2019amour (It\u2019s Love)"
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "US",
+                      "date": {
+                        "month": 6,
+                        "year": 1991
+                      }
+                    }
+                  ],
+                  "track_count": 15
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Very Best of \u00c9dith Piaf: Immortal \"Little Sparrow\" of France",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "96929a9b-6324-3a42-98a2-56508c10e73f",
+              "releases": [
+                {
+                  "id": "82d4e3cc-5fbe-4a23-81e7-10ff2bdc0f97",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "position": 1,
+                      "track_count": 12,
+                      "tracks": [
+                        {
+                          "id": "87e6cc0e-95cf-3c31-8917-336747eb9068",
+                          "position": 8
+                        }
+                      ]
+                    }
+                  ],
+                  "track_count": 12
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Non, je ne regrette rien",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "969f92cd-9a5f-43b0-b2fd-7cac32f66a7f",
+              "releases": [
+                {
+                  "country": "IT",
+                  "date": {
+                    "year": 1955
+                  },
+                  "id": "693312af-2d28-4a5b-aeb2-f3bf66ab9bac",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "12\" Vinyl",
+                      "position": 1,
+                      "track_count": 12,
+                      "tracks": [
+                        {
+                          "id": "75444f4d-3fed-3595-86ca-68188b4560a8",
+                          "position": 7
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "IT",
+                      "date": {
+                        "year": 1955
+                      }
+                    }
+                  ],
+                  "track_count": 12
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "C\u2019est \u00e0 Hambourg",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "7eb28c96-f54b-4561-8fe0-2bed2af96f83",
+              "releases": [
+                {
+                  "country": "FR",
+                  "date": {
+                    "year": 2016
+                  },
+                  "id": "0583d388-032d-42d0-8b98-25fd7f8b4978",
+                  "medium_count": 3,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 2,
+                      "track_count": 20,
+                      "tracks": [
+                        {
+                          "id": "8ef87153-a827-4a77-ae23-e38c44caaa49",
+                          "position": 4
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "FR",
+                      "date": {
+                        "year": 2016
+                      }
+                    }
+                  ],
+                  "track_count": 60
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Platinum Collection",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "d4cb9330-3aa0-4b39-84ec-4a8516c2c288",
+              "releases": [
+                {
+                  "country": "FR",
+                  "date": {
+                    "year": 2003
+                  },
+                  "id": "316e5a51-6962-4872-81c2-72d765bf458f",
+                  "medium_count": 20,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 14,
+                      "track_count": 24,
+                      "tracks": [
+                        {
+                          "id": "83910e1b-d9c6-3aba-bd96-b02a0a50eefa",
+                          "position": 3
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "FR",
+                      "date": {
+                        "year": 2003
+                      }
+                    }
+                  ],
+                  "track_count": 414
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "L\u2019Int\u00e9grale",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                  "name": "Various Artists"
+                }
+              ],
+              "id": "c06f795e-eddc-4901-82f5-4b1ab53c4a16",
+              "releases": [
+                {
+                  "country": "XE",
+                  "date": {
+                    "day": 19,
+                    "month": 11,
+                    "year": 2007
+                  },
+                  "id": "b938db93-d908-4c51-9af6-6f4a5f39c21b",
+                  "medium_count": 2,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 1,
+                      "track_count": 16,
+                      "tracks": [
+                        {
+                          "artists": [
+                            {
+                              "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                              "name": "\u00c9dith Piaf"
+                            }
+                          ],
+                          "id": "ea96963a-725a-4b9a-8ba4-2f4958aa1be5",
+                          "position": 2
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "XE",
+                      "date": {
+                        "day": 19,
+                        "month": 11,
+                        "year": 2007
+                      }
+                    }
+                  ],
+                  "track_count": 32
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Chanson : C\u2019est l\u2019amour : Brigitte edition",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "80bd2874-d031-4580-b860-873e4cb1e368",
+              "releases": [
+                {
+                  "country": "IT",
+                  "date": {
+                    "year": 2006
+                  },
+                  "id": "47c49be7-c60a-451e-8ea7-20121fd07dd5",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 1,
+                      "track_count": 14,
+                      "tracks": [
+                        {
+                          "id": "60178bd3-ca70-46b9-9483-4b94343eb351",
+                          "position": 1
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "IT",
+                      "date": {
+                        "year": 2006
+                      }
+                    }
+                  ],
+                  "track_count": 14
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Les grands Chansonniers: Edith Piaf",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "0f061289-5a66-4e9e-a552-a84576e6e8bb",
+              "releases": [
+                {
+                  "country": "DE",
+                  "date": {
+                    "year": 1999
+                  },
+                  "id": "7d948a01-601e-410e-9ead-3f60f8c460e7",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 1,
+                      "track_count": 24,
+                      "tracks": [
+                        {
+                          "id": "10d48f26-273a-3b72-9358-ae5b72997bdc",
+                          "position": 21
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "DE",
+                      "date": {
+                        "year": 1999
+                      }
+                    }
+                  ],
+                  "track_count": 24
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Nein, ich bereue nichts: Das Beste von Edith Piaf",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "2cc1c85f-b84f-4c6a-9f9b-829bd6785956",
+              "releases": [
+                {
+                  "country": "CZ",
+                  "date": {
+                    "year": 2000
+                  },
+                  "id": "11d3a33f-cec9-4d3d-bd3f-ad97d6d86ccc",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 1,
+                      "track_count": 25,
+                      "tracks": [
+                        {
+                          "id": "85d19db4-b62a-4491-9f0f-5e606b720560",
+                          "position": 9
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "CZ",
+                      "date": {
+                        "year": 2000
+                      }
+                    }
+                  ],
+                  "track_count": 25
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Gold Hits from A to Z",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "b260e1c4-67f8-3f67-8878-853c3326fd90",
+              "releases": [
+                {
+                  "country": "DE",
+                  "date": {
+                    "year": 1992
+                  },
+                  "id": "4ef22d87-46d2-4c41-936e-86b3c64a2104",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 1,
+                      "track_count": 18,
+                      "tracks": [
+                        {
+                          "id": "956e5458-f36b-3918-9182-37c6754acca1",
+                          "position": 5
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "DE",
+                      "date": {
+                        "year": 1992
+                      }
+                    }
+                  ],
+                  "track_count": 18
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Die gro\u00dfen Erfolge \u2013 Die gro\u00dfen Chansons",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "89cb5b65-ec83-4fe3-8677-3e21ea02089f",
+              "releases": [
+                {
+                  "country": "RU",
+                  "date": {
+                    "year": 2008
+                  },
+                  "id": "7fb9c720-85fa-4da8-8373-7ba58d730592",
+                  "medium_count": 2,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 2,
+                      "track_count": 25,
+                      "tracks": [
+                        {
+                          "id": "b5cc6c01-56d0-382e-b196-594f8f61bffe",
+                          "position": 1
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "RU",
+                      "date": {
+                        "year": 2008
+                      }
+                    }
+                  ],
+                  "track_count": 50
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Greatest Hits",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "6bc1ee69-b7e1-3822-bc3a-9b80a3382889",
+              "releases": [
+                {
+                  "country": "US",
+                  "date": {
+                    "day": 30,
+                    "month": 7,
+                    "year": 1991
+                  },
+                  "id": "513d4b78-4981-4353-97bf-980a84173308",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 1,
+                      "track_count": 18,
+                      "tracks": [
+                        {
+                          "id": "a1f92fea-c83d-3d8d-ba39-6331d72a09b7",
+                          "position": 14
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "US",
+                      "date": {
+                        "day": 30,
+                        "month": 7,
+                        "year": 1991
+                      }
+                    }
+                  ],
+                  "track_count": 18
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Voice of the Sparrow: The Very Best of \u00c9dith Piaf",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "f8e832ff-7994-4bd6-b4f2-80e4953949c4",
+              "releases": [
+                {
+                  "country": "DE",
+                  "date": {
+                    "year": 1961
+                  },
+                  "id": "ac688ca4-836a-490a-8c21-4f9766f3b8e8",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "7\" Vinyl",
+                      "position": 1,
+                      "track_count": 2,
+                      "tracks": [
+                        {
+                          "id": "abd573db-23c7-3bd8-88c5-8b27367ee3a9",
+                          "position": 2
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "DE",
+                      "date": {
+                        "year": 1961
+                      }
+                    }
+                  ],
+                  "track_count": 2
+                }
+              ],
+              "title": "Exodus / C\u2019est l\u2019amour",
+              "type": "Single"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "81c036cb-78d9-4661-8459-037901f199e2",
+              "releases": [
+                {
+                  "country": "FR",
+                  "date": {
+                    "month": 2,
+                    "year": 2007
+                  },
+                  "id": "63b51525-2076-4fc8-9686-79b3c542ac88",
+                  "medium_count": 5,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 2,
+                      "title": "\u00c9dith chante Piaf",
+                      "track_count": 20,
+                      "tracks": [
+                        {
+                          "id": "a9d6befd-32e8-49b2-bf4d-b83b5fa4fe2a",
+                          "position": 17
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "FR",
+                      "date": {
+                        "month": 2,
+                        "year": 2007
+                      }
+                    }
+                  ],
+                  "track_count": 100
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "100 chansons",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "70cf5251-6211-3a12-8c8b-0d64fd279c5f",
+              "releases": [
+                {
+                  "country": "XE",
+                  "date": {
+                    "year": 1988
+                  },
+                  "id": "ff23bb8a-f095-4f1e-9a80-546ef6706c3a",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 1,
+                      "track_count": 23,
+                      "tracks": [
+                        {
+                          "id": "a461b444-f732-3b35-a0a9-4455f482ba23",
+                          "position": 16
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "XE",
+                      "date": {
+                        "year": 1988
+                      }
+                    }
+                  ],
+                  "track_count": 23
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Wonderful World of \u00c9dith Piaf: 23 Grands Succ\u00e8s",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "173f75ff-d6cd-3b3b-9902-f814d25dfd27",
+              "releases": [
+                {
+                  "country": "NL",
+                  "date": {
+                    "day": 13,
+                    "month": 8,
+                    "year": 2002
+                  },
+                  "id": "01d3c2c8-4029-47b1-9000-9e3e3231798e",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 1,
+                      "track_count": 25,
+                      "tracks": [
+                        {
+                          "id": "b6d16661-4772-39ba-9f4f-72c1de345073",
+                          "position": 6
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "NL",
+                      "date": {
+                        "day": 13,
+                        "month": 8,
+                        "year": 2002
+                      }
+                    }
+                  ],
+                  "track_count": 25
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Het beste van Edith Piaf",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "027ddf81-6912-47c3-8a7e-d6ead609582c",
+              "releases": [
+                {
+                  "country": "DE",
+                  "date": {
+                    "day": 30,
+                    "month": 1,
+                    "year": 2015
+                  },
+                  "id": "4311430c-f00e-439a-b45d-0974dfa912b2",
+                  "medium_count": 10,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 8,
+                      "title": "Sincerely\u2026 Edith Piaf",
+                      "track_count": 12,
+                      "tracks": [
+                        {
+                          "id": "5a34f0ec-1379-41d6-9ef7-8ff29699335d",
+                          "position": 2
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "DE",
+                      "date": {
+                        "day": 30,
+                        "month": 1,
+                        "year": 2015
+                      }
+                    }
+                  ],
+                  "track_count": 130
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Original Albums",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "e9dfee80-c771-4c05-87a6-b676caaaba42",
+              "releases": [
+                {
+                  "country": "US",
+                  "id": "6d47dfa3-dadf-420e-87e8-862a14d52b0b",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "12\" Vinyl",
+                      "position": 1,
+                      "track_count": 12,
+                      "tracks": [
+                        {
+                          "id": "7cfd3f27-d86c-4ae0-8214-82e211ff8267",
+                          "position": 11
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "US"
+                    }
+                  ],
+                  "track_count": 12
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "The Best of \u00c9dith Piaf: Immortal \"Little Sparrow\" of France",
+              "type": "Album"
+            },
+            {
+              "artists": [
+                {
+                  "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                  "name": "\u00c9dith Piaf"
+                }
+              ],
+              "id": "3a506bff-48b1-44d9-b8c1-ae64eeeb1f33",
+              "releases": [
+                {
+                  "country": "FR",
+                  "date": {
+                    "year": 1998
+                  },
+                  "id": "dcf7eab4-0c16-45df-92d1-4fa0ad798cfd",
+                  "medium_count": 17,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 12,
+                      "track_count": 22,
+                      "tracks": [
+                        {
+                          "id": "2babe3f4-6ec5-4d32-9588-56b9df5a3568",
+                          "position": 8
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "FR",
+                      "date": {
+                        "year": 1998
+                      }
+                    }
+                  ],
+                  "track_count": 341
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Int\u00e9grale et Plus",
+              "type": "Album"
+            },
+            {
+              "id": "bf6033a8-192b-349c-9b9f-32a81d81a2eb",
+              "releases": [
+                {
+                  "country": "DE",
+                  "date": {
+                    "year": 1989
+                  },
+                  "id": "16159606-8307-4184-a0b1-883fdd7258d7",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "CD",
+                      "position": 1,
+                      "track_count": 15,
+                      "tracks": [
+                        {
+                          "id": "d7c82d9d-3fa4-36cb-b4cf-972eb6d85057",
+                          "position": 12
+                        }
+                      ]
+                    }
+                  ],
+                  "releaseevents": [
+                    {
+                      "country": "DE",
+                      "date": {
+                        "year": 1989
+                      }
+                    }
+                  ],
+                  "track_count": 15
+                },
+                {
+                  "id": "4200c296-bdcc-4aaa-8c35-4e7933bc5a22",
+                  "medium_count": 1,
+                  "mediums": [
+                    {
+                      "format": "Cassette",
+                      "position": 1,
+                      "track_count": 15,
+                      "tracks": [
+                        {
+                          "id": "94c0c71c-166b-4c31-ad4c-93885bc93bd7",
+                          "position": 12
+                        }
+                      ]
+                    }
+                  ],
+                  "track_count": 15
+                }
+              ],
+              "secondarytypes": [
+                "Compilation"
+              ],
+              "title": "Edith Piaf",
+              "type": "Album"
+            }
+          ],
+          "sources": 185,
+          "title": "C\u2019est l\u2019amour"
+        }
+      ],
+      "score": 0.944357
+    }
+  ],
+  "status": "ok"
+}
