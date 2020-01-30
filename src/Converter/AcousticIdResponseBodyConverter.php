@@ -38,6 +38,10 @@ class AcousticIdResponseBodyConverter implements ResponseBodyConverter{
 
 		$decoded = json_decode((string) $value);
 
+		if(property_exists($decoded, 'error')) {
+			return $decoded;
+		}
+
 		$results = new Results();
 		$mapper = new \JsonMapper();
 
