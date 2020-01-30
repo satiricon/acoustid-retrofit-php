@@ -4,7 +4,6 @@
 namespace Satiricon\AcoustId\Tests\Unit;
 
 
-use GuzzleHttp\Client;
 use GuzzleHttp\Psr7\Response;
 use PHPUnit\Framework\TestCase;
 use Psr\Http\Message\RequestInterface;
@@ -15,7 +14,6 @@ use Satiricon\AcoustId\Converter\AcoustIdConverterFactory;
 use Satiricon\AcoustId\Model\Results;
 use Tebru\Retrofit\HttpClient;
 use Tebru\Retrofit\Retrofit;
-use Tebru\RetrofitHttp\Guzzle6\Guzzle6HttpClient;
 
 class LookupByIdTest extends TestCase {
 
