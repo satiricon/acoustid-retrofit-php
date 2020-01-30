@@ -22,7 +22,7 @@ $dotenv->load();
 $dotenv->required(['API_APP_TOKEN', 'API_USER_TOKEN'])->notEmpty();
 
 
-$container = new ContainerBuilder();
+/*$container = new ContainerBuilder();
 $container->setParameter('acoustid.api.app_token', getenv('API_APP_TOKEN'));
 $container->setParameter('acoustid.api.user_token', getenv('API_USER_TOKEN'));
 $container->setParameter('acoustid.api.url', getenv('API_BASE_URL'));
@@ -54,4 +54,4 @@ $container->register(Retrofit::class)
 $container->register(AcoustIdService::class)
 	->setFactory([new Reference(Retrofit::class), 'create'])
 	->addArgument(AcoustIdService::class)
-	->setPublic(true);
+	->setPublic(true);*/

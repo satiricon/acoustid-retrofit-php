@@ -11,14 +11,13 @@ use Satiricon\AcoustId\Converter\AcousticIdResponseBodyConverter;
 use Satiricon\AcoustId\Converter\AcoustIdConverterFactory;
 use Satiricon\AcoustId\Model\Artist;
 use Satiricon\AcoustId\Model\Recording;
-use Satiricon\AcoustId\Model\Release;
 use Satiricon\AcoustId\Model\ReleaseGroup;
 use Satiricon\AcoustId\Model\Result;
 use Satiricon\AcoustId\Model\Results;
 use Tebru\Retrofit\HttpClient;
 use Tebru\Retrofit\Retrofit;
 
-class AcoustIdServiceTest extends TestCase {
+class LookupTest extends TestCase {
 
 	/** @var AcoustIdService  */
 	private $service;
@@ -78,8 +77,6 @@ class AcoustIdServiceTest extends TestCase {
 		/** @var $result \Satiricon\AcoustId\Model\Result */
 		$result = $results->offsetGet(0);
 		$this->assertInstanceOf(Result::class, $result);
-
-		dump($result->getReleasegroups());
 
 		return $result;
 	}
