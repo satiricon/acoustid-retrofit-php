@@ -14,14 +14,11 @@ use Tebru\Retrofit\ResponseBodyConverter;
 
 class AcousticIdResponseBodyConverter implements ResponseBodyConverter{
 
-	protected $proxyFactory;
-
 	protected $api;
 
 	protected $type;
 
-	public function __construct( LazyLoadingGhostFactory $proxyFactory = null , AcoustIdService $api = null) {
-		$this->proxyFactory = $proxyFactory;
+	public function __construct( AcoustIdService $api = null) {
 		$this->api = $api;
 	}
 
@@ -37,7 +34,7 @@ class AcousticIdResponseBodyConverter implements ResponseBodyConverter{
 	public function convert( StreamInterface $value ) {
 
 		$decoded = json_decode((string) $value);
-
+		dump($decoded);
 		if(property_exists($decoded, 'error')) {
 			return $decoded;
 		}

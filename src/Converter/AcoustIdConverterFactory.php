@@ -4,6 +4,7 @@
 namespace Satiricon\AcoustId\Converter;
 
 
+use http\Env\Response;
 use Tebru\PhpType\TypeToken;
 use Tebru\Retrofit\ConverterFactory;
 use Tebru\Retrofit\RequestBodyConverter;
@@ -13,15 +14,18 @@ use Tebru\Retrofit\StringConverter;
 class AcoustIdConverterFactory implements ConverterFactory{
 
 	protected $responseBodyConverter;
+	protected $requestBodyConverter;
 
-	public function __construct(AcousticIdResponseBodyConverter $responseBodyConverter) {
+	public function __construct(ResponseBodyConverter $responseBodyConverter, RequestBodyConverter $requestBodyConverter) {
 		$this->responseBodyConverter = $responseBodyConverter;
+		$this->requestBodyConverter = $requestBodyConverter;
 	}
 
 	/**
 	 * @inheritDoc
 	 */
 	public function responseBodyConverter( TypeToken $type ): ?ResponseBodyConverter {
+
 		return $this->responseBodyConverter->setType($type);
 	}
 
@@ -29,8 +33,8 @@ class AcoustIdConverterFactory implements ConverterFactory{
 	 * @inheritDoc
 	 */
 	public function requestBodyConverter( TypeToken $type ): ?RequestBodyConverter {
-		// TODO: Implement requestBodyConverter() method.
-		return null;
+
+		return $this->requestBodyConverter;
 	}
 
 	/**

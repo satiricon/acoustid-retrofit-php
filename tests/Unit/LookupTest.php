@@ -15,6 +15,7 @@ use Satiricon\AcoustId\Model\ReleaseGroup;
 use Satiricon\AcoustId\Model\Result;
 use Satiricon\AcoustId\Model\Results;
 use Tebru\Retrofit\HttpClient;
+use Tebru\Retrofit\Internal\Converter\DefaultRequestBodyConverter;
 use Tebru\Retrofit\Retrofit;
 
 class LookupTest extends TestCase {
@@ -49,10 +50,12 @@ class LookupTest extends TestCase {
 		};
 
 		$retrofit = Retrofit::builder()
-			->setHttpClient($client)
-			->setBaseUrl("http://anything")
-			->addConverterFactory(new AcoustIdConverterFactory( new AcousticIdResponseBodyConverter() ) )
-		->build();
+		                    ->setHttpClient($client)
+		                    ->setBaseUrl("https://api.acoustid.org")
+		                    ->addConverterFactory(new AcoustIdConverterFactory(
+			                    new AcousticIdResponseBodyConverter(),
+			                    new DefaultRequestBodyConverter() ) )
+		                    ->build();
 
 		$this->service = $retrofit->create(AcoustIdService::class);
 
