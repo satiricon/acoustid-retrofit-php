@@ -34,18 +34,23 @@ class AcousticIdResponseBodyConverter implements ResponseBodyConverter{
 	public function convert( StreamInterface $value ) {
 
 		$decoded = json_decode((string) $value);
-		dump($decoded);
-		if(property_exists($decoded, 'error')) {
-			return $decoded;
-		}
 
-		$results = new Results();
-		$mapper = new \JsonMapper();
+		$has_status = property_exists($decoded, 'status');
+		$has_results = property_exists($decoded, 'results');
 
-		$results = $mapper->mapArray(
-			$decoded->results, $results, Result::class );
-		$results->setStatus($decoded->status);
 
-		return $results;
+		if($has_status && $has_results && $decoded->status = "OK") {
+            $results = new Results();
+            $mapper = new \JsonMapper();
+
+            $results = $mapper->mapArray(
+                $decoded->results, $results, Result::class );
+            $results->setStatus($decoded->status);
+
+            return $results;
+        }
+
+		return $decoded;
+
 	}
 }
