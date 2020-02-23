@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Satiricon\AcoustId\Tests\Unit;
+namespace Satiricon\AcoustId\Tests\Functional;
 
 
 use GuzzleHttp\Client;
@@ -83,8 +83,6 @@ class SubmitTest extends TestCase {
 
 		$call = $this->service->submit($client, $user, $duration, $fingerPrint, $map);
 		$response = $call->execute()->body();
-
-		dump($response);
 
 
 	}

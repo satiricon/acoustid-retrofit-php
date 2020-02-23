@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Satiricon\AcoustId\Tests\Unit;
+namespace Satiricon\AcoustId\Tests\Functional;
 
 
 use GuzzleHttp\Psr7\Response;
